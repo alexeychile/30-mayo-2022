@@ -1,0 +1,21 @@
+h1 {
+    font-family: Franklin Gothic Medium;
+color:rgb(87, 29, 142);
+border-bottom: 1px solid black;
+}
+
+p {  color: rgb(41, 224, 12);
+     Border: 1px solid rgb(230, 212, 212);
+}
+body {
+    text-align: center;
+    background-color: rgb(131, 102, 176);
+    margin-left: 50px ;
+    margin-right: 50px;
+    border: 10px solid rgb(164, 233, 15) ;
+    padding: 10px 10%
+    }
+    /* it is just a comment */
+    h1.greentext {
+        color: rgb(19, 224, 33);
+    }
